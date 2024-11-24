@@ -1,0 +1,6 @@
+com\spring\repo\DBConnection.class
+com\spring\model\UserBean.class
+com\spring\controller\photoController.class
+com\spring\controller\TestController.class
+com\spring\model\PhotoBean.class
+com\spring\repo\PhotoRepo.class
